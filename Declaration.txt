@@ -1,2 +1,5 @@
-由于部分代码来自合作实验室、同门、已毕业师兄，暂不公开；
-由文章第一作者提出方法的代码已公开
+Here is the English translation:
+
+Since some of the code comes from collaborating laboratories, labmates, and graduated senior colleagues, it is not publicly released for the time being.
+
+The code for the method proposed by the first author of the paper has been made publicly available.
